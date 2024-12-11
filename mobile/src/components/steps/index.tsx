@@ -7,7 +7,7 @@ import { s } from "./styles";
 export function Steps() {
   return (
     <View style={s.container}>
-      <Text style={s.title}>Veja como function:</Text>
+      <Text style={s.title}>Veja como funciona:</Text>
 
       <Step
         icon={IconMapPin}
